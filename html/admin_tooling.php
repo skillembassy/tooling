@@ -73,8 +73,8 @@ if (isset($_GET['logout'])) {
 </div>
 
 
-<h1> PROPITIX TOOLING WEBSITE </h1>
-<h2 id="test">Propitix.io</h2>
+<h1> SKILL EMBASSY TOOLING WEBSITE </h1>
+<h2 id="test">skillembassy.com</h2>
 
 
 
