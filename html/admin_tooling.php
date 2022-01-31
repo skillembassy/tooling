@@ -67,11 +67,6 @@ if (isset($_GET['logout'])) {
 
 	<div class="Logo">
 
-<a href="">
-	<img src="img/logo-propitix.png" alt="" width="220" height="150">
-	</a>
-</div>
-
 
 <h1> SKILL EMBASSY TOOLING WEBSITE </h1>
 <h2 id="test">skillembassy.com</h2>
